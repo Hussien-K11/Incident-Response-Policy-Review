@@ -1,14 +1,31 @@
+---
 # Incident Response Policy Review & Simulation
 
-## 1. Project Overview
+![Status](https://img.shields.io/badge/status-In%20Progress-yellow)
+![Focus](https://img.shields.io/badge/focus-Policy%20Audit%20%26%20SOC%20Simulation-blueviolet)
+![Role Simulated](https://img.shields.io/badge/role-Junior%20SOC%20Analyst-lightgrey)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
-This project simulates a real-world task commonly assigned to junior SOC Analysts: reviewing and evaluating an organisation’s Incident Response Policy (IRP). The purpose is to assess the strengths and limitations of the policy and test how it performs when applied to a realistic cyber incident scenario.
+**Status:** In Progress  
+**Focus:** Policy Audit, SOC Simulation, Documentation & Analysis  
+**Role Simulated:** Junior SOC Analyst
 
-By working through this project, I aim to:
+---
 
-- Understand how incident response documentation supports security operations
-- Identify potential policy gaps that could delay or hinder response
-- Practise simulating incident handling using a simplified phishing scenario
-- Strengthen my ability to think like a Tier 1 SOC Analyst
+## ➀ Project Overview
 
-This project is part of my cybersecurity portfolio to demonstrate analytical skills, documentation clarity, and readiness for real-world SOC environments.
+This project simulates a task commonly assigned to entry-level SOC Analysts: reviewing an organisation’s Incident Response Policy (IRP) and evaluating its effectiveness in guiding real-time incident response.
+
+The focus is not only on identifying policy gaps, but also on applying the policy to a simulated phishing alert to assess whether the documented procedures hold up under realistic conditions.
+
+---
+
+## ➁ Real-World Objectives
+
+This project is designed to build practical SOC skills in policy literacy, documentation analysis, and incident handling simulation. Specific objectives include:
+
+- Understanding the structure and function of an IR policy
+- Identifying strengths and weaknesses through structured review
+- Simulating a common phishing scenario and walking through response phases
+- Suggesting improvements based on observed limitations
+- Practising clear documentation, critical thinking, and post-incident reflection
