@@ -1,0 +1,39 @@
+Incident Response Policy
+
+1. Purpose:
+To establish procedures for identifying, responding to, and recovering from information security incidents that may threaten the confidentiality, integrity, or availability of the organisation’s systems or data.
+
+2. Scope:
+This policy applies to all employees, contractors, and third-party users who access organisational systems or data.
+
+3. Roles & Responsibilities:
+- Incident Response Lead: Coordinates the response, escalation, and communication.
+- IT Support: Provides technical assistance and system restoration.
+- Security Analyst: Investigates incidents, collects evidence, and maintains logs.
+
+4. Incident Categories:
+- Category 1: Unauthorized access (e.g. account compromise)
+- Category 2: Malware infection
+- Category 3: Data breach
+- Category 4: Denial of Service (DoS) attack
+- Category 5: Policy violation
+
+5. Response Process (Phases):
+- Identification: Recognise and classify the incident.
+- Containment: Isolate affected systems.
+- Eradication: Remove the root cause.
+- Recovery: Restore systems and verify integrity.
+- Lessons Learned: Document findings and improve defences.
+
+6. Communication:
+All incidents must be reported to the Incident Response Lead within 1 hour of detection. External communication (e.g. customers, law enforcement) is managed by the CISO or designated personnel.
+
+7. Documentation:
+All steps taken must be logged in an incident report. Evidence must be preserved in accordance with legal and compliance requirements.
+
+8. Review:
+This policy will be reviewed annually or after a major incident.
+
+Approved by: [CISO Name]  
+Version: 1.0  
+Date: [Insert Date]
