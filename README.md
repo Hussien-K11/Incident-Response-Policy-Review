@@ -31,7 +31,6 @@ This project is designed to build practical SOC skills in policy literacy, docum
 - Practising clear documentation, critical thinking, and post-incident reflection
 
 > **Analyst Note:**  
-<<<<<<< HEAD
 > This project was created to mirror the type of review and response task a new SOC analyst might perform during onboarding. It challenges me to not only understand policy documentation, but to think critically about how it translates into action — and whether it holds up during high-pressure incidents.
 
 --- 
@@ -64,3 +63,20 @@ During this simulation, the policy was helpful in identifying roles and requirin
 Full documentation is available in the [Phishing Simulation](simulation/phishing_alert_simulation.md) report.
 
 ---
+
+---
+
+## ➄ Final Reflection & Takeaways
+
+This project gave me insight into an often-overlooked SOC task: evaluating the quality and applicability of internal security documentation. While policy analysis isn’t as flashy as malware reversing or log correlation, it’s a foundational skill — because weak policy leads to weak response.
+
+By simulating a phishing alert and walking through the incident lifecycle, I learned how real-world decisions often depend on policy clarity. The simulation revealed gaps that would slow down or confuse a junior analyst without strong team support.
+
+Key lessons included:
+
+- How to think critically about incident response beyond the textbook lifecycle
+- Where policies tend to fall short — and how to document those weaknesses clearly
+- The value of structured, clear communication in a real security workflow
+
+> **Analyst Note:**  
+> This wasn’t just an academic exercise — it was an opportunity to practise the real mindset expected in a SOC. Document-driven thinking, self-sufficiency, and the ability to improve existing processes are what I aim to bring to every alert I touch.
