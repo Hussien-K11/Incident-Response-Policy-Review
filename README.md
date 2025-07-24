@@ -35,3 +35,32 @@ This project is designed to build practical SOC skills in policy literacy, docum
 > This project was created to mirror the type of review and response task a new SOC analyst might perform during onboarding. It challenges me to not only understand policy documentation, but to think critically about how it translates into action — and whether it holds up during high-pressure incidents.
 
 --- 
+
+---
+
+## ➂ Policy Gap Analysis
+
+The current IR policy was evaluated for completeness, clarity, and usability. Key strengths included clear incident categories and defined roles. However, several weaknesses were found:
+
+- No detailed containment guidance (short-term or long-term)
+- Lacks severity levels or escalation procedures
+- No steps for chain of custody or forensically-sound evidence handling
+- Ambiguous communication paths for internal and external stakeholders
+
+Improvements were suggested in a separate [Policy Gap Analysis](analysis/policy_gap_analysis.md) report.
+
+---
+
+## ➃ Simulated Phishing Incident Response
+
+To test the policy, a phishing alert simulation was conducted. This included a suspicious ZIP attachment and a flagged malicious link. The steps followed:
+
+- Header inspection and sandboxed link review
+- VirusTotal scan of attachment hash
+- Internal log correlation to confirm no execution
+
+During this simulation, the policy was helpful in identifying roles and requiring user reporting — but lacked containment steps, communication flow, and detailed documentation procedures.
+
+Full documentation is available in the [Phishing Simulation](simulation/phishing_alert_simulation.md) report.
+
+---
