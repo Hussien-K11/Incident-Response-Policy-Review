@@ -29,3 +29,8 @@ This project is designed to build practical SOC skills in policy literacy, docum
 - Simulating a common phishing scenario and walking through response phases
 - Suggesting improvements based on observed limitations
 - Practising clear documentation, critical thinking, and post-incident reflection
+
+> **Analyst Note:**  
+> This project was created to mirror the type of review and response task a new SOC analyst might perform during onboarding. It challenges me to not only understand policy documentation, but to think critically about how it translates into action — and whether it holds up during high-pressure incidents.
+
+--- 
