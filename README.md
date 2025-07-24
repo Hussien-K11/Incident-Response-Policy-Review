@@ -1,12 +1,12 @@
 ---
 # Incident Response Policy Review & Simulation
 
-![Status](https://img.shields.io/badge/status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 ![Focus](https://img.shields.io/badge/focus-Policy%20Audit%20%26%20SOC%20Simulation-blueviolet)
 ![Role Simulated](https://img.shields.io/badge/role-Junior%20SOC%20Analyst-lightgrey)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
-**Status:** In Progress  
+**Status:** Completed 
 **Focus:** Policy Audit, SOC Simulation, Documentation & Analysis  
 **Role Simulated:** Junior SOC Analyst
 
@@ -16,7 +16,7 @@
 
 This project simulates a task commonly assigned to entry-level SOC Analysts: reviewing an organisation’s Incident Response Policy (IRP) and evaluating its effectiveness in guiding real-time incident response.
 
-The focus is not only on identifying policy gaps, but also on applying the policy to a simulated phishing alert to assess whether the documented procedures hold up under realistic conditions.
+The focus is not only on identifying policy gaps, but also on applying the policy to a simulated phishing alert to assess whether the documented procedures are actionable and effective in a realistic SOC environment.
 
 ---
 
@@ -68,7 +68,7 @@ Full documentation is available in the [Phishing Simulation](simulation/phishing
 
 This project gave me insight into an often-overlooked SOC task: evaluating the quality and applicability of internal security documentation. While policy analysis isn’t as flashy as malware reversing or log correlation, it’s a foundational skill — because weak policy leads to weak response.
 
-By simulating a phishing alert and walking through the incident lifecycle, I learned how real-world decisions often depend on policy clarity. The simulation revealed gaps that would slow down or confuse a junior analyst without strong team support.
+By simulating a phishing alert and walking through the incident lifecycle, I learned how real-world decisions often depend on policy clarity. The simulation revealed several gaps that could delay response or create uncertainty for a junior analyst in a live environment without strong team support.
 
 Key lessons included:
 
