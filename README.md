@@ -5,8 +5,13 @@
 ![Focus](https://img.shields.io/badge/focus-Policy%20Audit%20%26%20SOC%20Simulation-blueviolet)
 ![Role Simulated](https://img.shields.io/badge/role-Junior%20SOC%20Analyst-lightgrey)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![SOC Analyst Project](https://img.shields.io/badge/project-SOC%20Analyst%20Lab-blue)
+![Docs](https://img.shields.io/badge/docs-Complete-success)
+![Lifecycle](https://img.shields.io/badge/lifecycle-Simulation%20%26%20Analysis-orange)
+![Focus](https://img.shields.io/badge/focus-Incident%20Response%20%7C%20Policy%20Review-blueviolet)
+![Focus](https://img.shields.io/badge/focus-Incident%20Response%20%7C%20Phishing-blueviolet)
 
-**Status:** Completed 
+**Status:** Completed  
 **Focus:** Policy Audit, SOC Simulation, Documentation & Analysis  
 **Role Simulated:** Junior SOC Analyst
 
@@ -81,7 +86,7 @@ Key lessons included:
 
 ---
 
-## 🧾 About the Author
+## Let’s Connect
 
 **Hussien Kofi**  
 Aspiring SOC Analyst | Policy-Aware | Alert-Focused  
