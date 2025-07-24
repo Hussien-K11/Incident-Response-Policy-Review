@@ -35,7 +35,6 @@ This project is designed to build practical SOC skills in policy literacy, docum
 
 --- 
 
----
 
 ## ➂ Policy Gap Analysis
 
@@ -64,7 +63,6 @@ Full documentation is available in the [Phishing Simulation](simulation/phishing
 
 ---
 
----
 
 ## ➄ Final Reflection & Takeaways
 
@@ -80,3 +78,16 @@ Key lessons included:
 
 > **Analyst Note:**  
 > This wasn’t just an academic exercise — it was an opportunity to practise the real mindset expected in a SOC. Document-driven thinking, self-sufficiency, and the ability to improve existing processes are what I aim to bring to every alert I touch.
+
+---
+
+## 🧾 About the Author
+
+**Hussien Kofi**  
+Aspiring SOC Analyst | Policy-Aware | Alert-Focused  
+
+📧 [Hussienkofi@gmail.com](mailto:Hussienkofi@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hussien-kofi-99a012330/)  
+💻 [GitHub Portfolio](https://github.com/Hussien-K11)
+
+**This project is part of an ongoing cybersecurity portfolio focused on practical, entry-level SOC analyst responsibilities — from threat detection and policy analysis to documentation and simulation.**
